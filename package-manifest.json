@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-053",
+  "repository_name": "edu-referral-communication-copy",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-referral-communication-copy-v1.0.0.zip",
+  "sha256": "8C324D38BD8F1B3C22120211511F3975C5990A6A37D0A2D93E7FEAC48D3EDBEE",
+  "bytes": 4926,
+  "entries": [
+    "edu-referral-communication-copy/SKILL.md",
+    "edu-referral-communication-copy/references/DOMAIN_GUIDE.md",
+    "edu-referral-communication-copy/references/EXAMPLES.md",
+    "edu-referral-communication-copy/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:41:41.0323987+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
