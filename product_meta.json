@@ -6,19 +6,37 @@
   "repository_name": "edu-referral-communication-copy",
   "product_type": "Skill",
   "category": "05 家校服务中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-referral-communication-copy-v1.0.0.zip",
+  "baseline_commit": "39f373e86cc52d3ff9a8858f5fbcd25d5d479f81",
+  "package_path": "dist/edu-referral-communication-copy-v1.0.1.zip",
+  "previous_package_path": "dist/edu-referral-communication-copy-v1.0.0.zip",
+  "previous_package_sha256": "8C324D38BD8F1B3C22120211511F3975C5990A6A37D0A2D93E7FEAC48D3EDBEE",
   "calculator": false,
   "core_input": "老生情况、转介绍对象、课程价值、关系阶段、奖励规则和沟通渠道",
   "main_output": "转介绍沟通文案、场景版本、跟进节奏、合规提醒和效果记录字段",
+  "main_output_fields": [
+    "转介绍沟通文案",
+    "场景版本",
+    "跟进节奏",
+    "合规提醒和效果记录字段"
+  ],
   "package_entries": [
     "edu-referral-communication-copy/SKILL.md",
     "edu-referral-communication-copy/references/DOMAIN_GUIDE.md",
     "edu-referral-communication-copy/references/EXAMPLES.md",
-    "edu-referral-communication-copy/templates/OUTPUT_TEMPLATE.md"
+    "edu-referral-communication-copy/templates/OUTPUT_TEMPLATE.md",
+    "edu-referral-communication-copy/README.md",
+    "edu-referral-communication-copy/USAGE.md",
+    "edu-referral-communication-copy/LICENSE",
+    "edu-referral-communication-copy/THIRD_PARTY_NOTICES.md",
+    "edu-referral-communication-copy/scripts/validate_input.js"
   ]
 }
